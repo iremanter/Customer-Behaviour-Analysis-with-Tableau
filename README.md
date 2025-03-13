@@ -1,3 +1,6 @@
+The tableau file is converted from live to extract in order to publish it in the public tableau platform. The link of published tableau file above:
+https://public.tableau.com/app/profile/irem.anter/viz/VSTT-A1/SuperstoreAnalysis?publish=yes
+
 The US Superstore dataset, which is obtained from Kaggle with a title “Superstore Analysis”, includes twenty-one attributes, which are as follows:
 
 - Row ID: A unique key for each sale.
@@ -68,8 +71,3 @@ In the third bar chart, Dual Axis Between Sales and Quantity for Each Region, th
 In the scatter plot, Sum of Quantity Sold vs. Sum of Sales Amount, color shows details about sub-category of the products. While the highest amount of sales occur in Phones, the highest quantity sold occurs in Binders. While the cost of Copiers can be decreased, Binders' cost can be increased. Additionally, the cost of art can also be increased.
 
 The last bar chart, Product Category Wise %YoY Growth, color shows details about the category of the products. The furniture category had consistent growth, with a peak in 2016 (16.65%) but slower growth in 2017 (8.29%). The Office Supplies category experienced major declines in 2014 and 2015, followed by strong recoveries in 2016 (34.03%) and 2017 (33.79%). The technology category experienced a sharp decline in 2014 and 2015, but recovered significantly in 2016 (39.06%) and this increase slowed down in 2017 (20.04%).
-
-**STORY: US SUPERSTORE ANALYSIS**
-
-As a final step, the tableau file is converted from live to extract in order to publish it in the public tableau platform. The link of published tableau file above:
-https://public.tableau.com/app/profile/irem.anter/viz/VSTT-A1/SuperstoreAnalysis?publish=yes
