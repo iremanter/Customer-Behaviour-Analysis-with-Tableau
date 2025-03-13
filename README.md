@@ -27,7 +27,7 @@ In addition to the current attributes, calculated fields, sets, parameters, dyna
 - Loss?: Indicates negative profit.
 - Discount: Specifies whether a discount was applied or not.
 - Total Sales by State: The sum of sales amounts for each state.
-- 
+  
 - State Contribution Group: Groups states based on sales amount:
 
 - Group 1: Sales amount greater than 100.000.
